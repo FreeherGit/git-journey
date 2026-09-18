@@ -1,4 +1,5 @@
 this is teh second fil
 toug
 
-hi its friday and i am learning branching 
+hi its friday and i am learning branching
+now i will learn how to get back to a previous commit
